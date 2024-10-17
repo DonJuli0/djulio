@@ -1,0 +1,47 @@
+HEADER{
+    background: rgb(226, 104, 104);
+    height: 200PX;
+    width: 100%;
+    text-align: center;
+    line-height: 200PX;
+    float: inline-start;
+}
+NAV{
+    background: rgb(189, 122, 228);
+    height: 100PX;
+    text-align: center;
+    line-height: 100PX;
+    width: 100%;
+    float: left;
+}
+#cyan{
+    background: rgb(146, 236, 236);
+    height: 200PX;
+    width: 50%;
+    text-align: center;
+    line-height: 200PX;
+    float: left;
+}
+#menta{
+    background: rgb(124, 235, 174);
+    height: 200PX;
+    width: 50%;
+    text-align: center;
+    line-height: 200PX;
+    float: left;
+}
+#chocolate{
+    background: rgb(63, 48, 33);
+    height: 100PX;
+    width: 100%;
+    text-align: center;
+    line-height: 100PX;
+    float: left;
+}
+FOOTER{
+    background: rgb(102, 112, 206);
+    height: 200PX;
+    width: 100%;
+    text-align: center;
+    line-height: 200PX;
+    float: inline-end;
